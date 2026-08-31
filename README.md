@@ -20,15 +20,14 @@ Beginner developer building practical CLI tools and web projects while sharpenin
 | Project | Stack | Why it matters |
 |---|---|---|
 | [you_cli_player](https://github.com/Devwithseashore/you_cli_player) | Python | Primary showcase project: compact CLI structure, README, requirements, and license already in place. |
-| [search_engine_votrix](https://github.com/Devwithseashore/search_engine_votrix) | JavaScript, HTML, CSS | Public web project being cleaned into a more professional repository shape. |
 
 ## Contribution Arcade
 
-<!-- puzzle-bobble -->
+<!-- bomberman -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devwithseashore/Devwithseashore/output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devwithseashore/Devwithseashore/output/puzzle-bobble-contribution-graph.svg">
-  <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/Devwithseashore/Devwithseashore/output/puzzle-bobble-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devwithseashore/Devwithseashore/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devwithseashore/Devwithseashore/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/Devwithseashore/Devwithseashore/output/bomberman-contribution-graph.svg">
 </picture>
 
 ## Profile Roadmap

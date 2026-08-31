@@ -16,11 +16,11 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Generate Puzzle Bobble contribution graph SVGs
+      - name: Generate Bomberman contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "puzzle-bobble"
+          games: "bomberman"
           hide_month_labels: "false"
 
       - name: Push SVGs to the output branch
